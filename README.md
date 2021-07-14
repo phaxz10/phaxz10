@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phaxz10
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
+- 🌱 I’m mainly use React js
 - 💞️ I’m looking to collaborate on anything react
 - 📫 You can reach me via email phaxz.bautista10@gmail.com
 

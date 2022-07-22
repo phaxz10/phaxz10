@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phaxz10
 - 👀 I’m interested in web development
-- 🌱 I’m mainly use React js
-- 💞️ I’m looking to collaborate on anything react
+- 🌱 I mainly develop with Nextjs
+- 💞️ I’m looking to collaborate on anything Nextjs
 - 📫 You can reach me via email phaxz.bautista10@gmail.com
 
 <!---

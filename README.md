@@ -20,8 +20,8 @@ const phaxz = {
   role: "Full-stack web developer",
   base: "🇵🇭 Philippines",
   stack: ["Next.js", "React", "TypeScript", "Supabase", "Tailwind"],
-  currently: "Building AI-powered, offline-first products",
-  loves: ["shipping fast", "clean DX", "retro / Game Boy UIs 🎮"],
+  currently: "Building random stuff - looking for new role",
+  loves: ["video games", "coding"],
   openTo: "Next.js collaborations & freelance",
 };
 ```

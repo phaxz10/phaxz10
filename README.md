@@ -40,7 +40,7 @@ const phaxz = {
 | :-- | :-- | :-- | :-- |
 | 🎮 **Gamified Portfolio** | An interactive **Game Boy–style** portfolio you play through instead of scroll | `React` · `TypeScript` · `Vite` | [Live ▸](https://gamified-portfolio-beryl.vercel.app) |
 | 💪 **MyPersonalFitness** | Offline-first, open-source fitness **PWA** with bring-your-own-key AI coaching | `Next.js` · `PGlite` · `AI SDK` · `TanStack Query` | [Live ▸](https://my-fitness-app-opal.vercel.app) · [Code ▸](https://github.com/phaxz10/MyFitnessApp) |
-| 🎙️ **Local Transcribe** | 100% **in-browser** speech-to-text — Whisper via Transformers.js, zero uploads | `React` · `Transformers.js` · `ONNX` · `ffmpeg.wasm` | [Live ▸](https://local-transcribe.vercel.app) · [Code ▸](https://github.com/phaxz10/local-transcribe) |
+| 🎙️ **Scribe by BearLog** | Free, private speech-to-text notes, **100% in-browser** — live mic with a floating window for copying text anywhere, file transcription, speaker labels, exports | `React` · `Transformers.js` · `ONNX` · `WebGPU` | [Live ▸](https://scribe.bearlog.app) · [Code ▸](https://github.com/phaxz10/local-transcribe) |
 | 🐻 **BearLog** | Multi-tenant **changelog SaaS** — hosted page, RSS feed & embeddable widget | `Next.js 16` · `Supabase` · `Lemon Squeezy` | [Live ▸](https://bearlog-changelog.vercel.app) · [Code ▸](https://github.com/phaxz10/bearlog) |
 
 > 🌐 Also building **Native Translate** — an offline travel translator running on-device LLMs (Gemma) + Whisper on Android, all in Flutter.
